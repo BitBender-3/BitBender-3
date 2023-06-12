@@ -20,4 +20,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitBender-3&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
