@@ -19,5 +19,4 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitBender-3&layout=compact)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />      
+ <i class="devicon-javascript-plain colored"></i>          
