@@ -20,4 +20,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitBender-3&layout=compact)
  
-<img align"right" alt"Anime" src="https://cdn.picrew.me/shareImg/org/202306/2023732_pzmNhKHh.png">
+
