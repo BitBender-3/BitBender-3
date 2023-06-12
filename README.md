@@ -20,3 +20,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitBender-3&layout=compact)
 
+            <i class="devicon-javascript-plain colored"></i>
+          
